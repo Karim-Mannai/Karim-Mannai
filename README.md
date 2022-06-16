@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,r,styledcomponents,tailwind,nodejs,expressjs,angular,spring,flask,react,redux,laravel,dotnet,mongodb,mysql,postgres,graphql,discord,linux,git,github,gitlab,idea,jenkins,kubernetes,vim,regex,stackoverflow)
 
+<!--
 ## ⭐ *Top Languages*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zgon7&theme=radical&layout=compact)
+-->
 
 ## 📊 *GitHub Stats*
 
