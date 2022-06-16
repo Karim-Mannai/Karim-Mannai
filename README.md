@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 
 ## ⭐ *Top Languages*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassem97&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zgon7&theme=radical&layout=compact)
 
 ## 📊 *GitHub Stats*
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bassem97&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zgon7&show_icons=true&theme=radical)
 
 ## 🏆 *Github Profile Trophy*
 
-![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=bassem97&theme=radical&row=1&column=10)
+![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=Zgon7&theme=radical&row=1&column=10)
