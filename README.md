@@ -1,8 +1,8 @@
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
- <strong> Hi there, .</strong>
+ <strong> Hi there. My name is Karim Mannai, here's a meme before we get started
+</strong>
 </h1>
-My name is Karim Mannai, here's a meme before we get started
 
 
 <p align="center">
