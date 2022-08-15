@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Socials
+<h2>😄 Socials</h2>
 
 <p align="left"> <a href="https://www.facebook.com/Zgon7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/zgon7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/karim__mannai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/karim-mannai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
@@ -39,6 +39,11 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zgon7&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=zgon7&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44)
+
+<a href="http://www.github.com/zgon7"><img src="https://github-readme-stats.vercel.app/api?username=zgon7&show_icons=true&hide=stars,&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="zgon7's GitHub stats" /></a>
+
+<a href="http://www.github.com/zgon7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zgon7&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 📊 *Commits Graph*
 
 ## 🏆 *Github Profile Trophy*
 
