@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 -->
 
 
-<p>
-  <a href="https://www.linkedin.com/in/karim-mannai/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-             badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/zgon7/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?     &style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-</p>
+### Socials
+
+<p align="left"> <a href="https://www.facebook.com/Zgon7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/zgon7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/karim__mannai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/karim-mannai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
 
