@@ -1,5 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karim Mannai, here's a meme before we get started
-
+<h1 align="center">
+ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
+ <strong> Hi there, .</strong>
+</h1>
+My name is Karim Mannai, here's a meme before we get started
 
 
 <p align="center">
