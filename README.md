@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <h2>🚀 Some Tools I Use</h2>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,c,cs,dart,,php,jquery,r,styledcomponents,tailwind,nodejs,expressjs,angular,flutter,webpack,spring,maven,flask,django,react,redux,laravel,symfony,dotnet,mongodb,mysql,sqlite,postgres,graphql,discord,linux,git,github,gitlab,idea,jenkins,kubernetes,vim,regex,stackoverflow,figma)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,c,cs,dart,php,jquery,r,styledcomponents,tailwind,nodejs,expressjs,angular,flutter,webpack,spring,maven,flask,django,react,redux,laravel,symfony,dotnet,mongodb,mysql,sqlite,postgres,graphql,discord,linux,git,github,gitlab,idea,jenkins,kubernetes,vim,regex,stackoverflow,figma)
 
 <!--
 ## ⭐ *Top Languages*
