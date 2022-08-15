@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 
 <a href="http://www.github.com/zgon7"><img src="https://activity-graph.herokuapp.com/graph?username=zgon7&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/zgon7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zgon7&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 ## 🏆 *Github Profile Trophy*
 
 ![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=Zgon7&theme=radical&row=1&column=10)
