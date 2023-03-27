@@ -1,13 +1,8 @@
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
- <strong> Hi there. My name is Karim Mannai, here's a meme before we get started
-</strong>
+ <strong> Hi there. My name is Karim Mannai</strong>
 </h1>
 
-
-<p align="center">
-  <img  height="350px" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-</p>
 
 <!--
 *Karim-Mannai/Karim-Mannai* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
