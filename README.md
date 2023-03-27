@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ## 📊 *Commits Graph*
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Karim-Mannai&theme=radical&border_radius=30)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Karim-Mannai&theme=react&border_radius=30)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 *Github Profile Trophy*
 
