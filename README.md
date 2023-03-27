@@ -37,13 +37,14 @@ Here are some ideas to get you started:
 
 ## 📊 *GitHub Stats*
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karim-Mannai&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Karim-Mannai&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karim-Mannai&show_icons=true&theme=radical&border_radius=30)
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Karim-Mannai&theme=radical&border_radius=30&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44)
 
 ## 📊 *Commits Graph*
 
-<a href="http://www.github.com/Karim-Mannai"><img src="https://activity-graph.herokuapp.com/graph?username=Karim-Mannai&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Karim-Mannai&theme=radical&border_radius=30)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 *Github Profile Trophy*
 
-![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=Karim-Mannai&theme=radical&row=1&column=10)
+![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=Karim-Mannai&theme=radical&border_radius=30&row=1&column=10)
+
